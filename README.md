@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de um README em inglês para o seu projeto:
-
-```markdown
 # LoGate: Logic-Based Graphical Proposition Classifier
 
 LoGate is a Python project that allows you to classify and analyze logical propositions using a graphical representation. It is designed to help you categorize and organize logical statements in a clear and structured manner.
