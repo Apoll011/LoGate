@@ -6,7 +6,6 @@ from display import display
 graph = Graph()
 
 frases = [
-    "O tiago é belo",
     "O tiago é um ser Humano",
     "A Fibi é uma Gata",
     "Gata é um Gato fêmea",
