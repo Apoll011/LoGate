@@ -34,10 +34,10 @@ def logic(graph:Graph, input, exclude=[], index=0) -> list:
                 Types = Types + logic(graph=graph, input=n.A.name, exclude=exclude+[node.id], index=index+1)
                 Types.append((prefix, text, index))
         
-    return filtrar_lista(Types)
+    return filtter_list(Types)
         
 
-def filtrar_lista(lista):
+def filtter_list(lista):
     filtrados = {}
     
     for item in lista:
